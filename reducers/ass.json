@@ -1,0 +1,418 @@
+[{
+    "company": "Uber",
+    "company_logo": "https://jobs.github.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1piIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8027ed8a72f60b7958573b72be88a0fa414fd0d/group-logo.png",
+    "company_url": "https://www.uber.com/careers/list/40899/",
+    "created_at": "Tue Jan 08 20:46:07 UTC 2019",
+    "description": "<p>At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.</p>
+<p>We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.</p>
+<h3>About the Role</h3>
+<p>As a frontend engineer on the UI Platform team at Uber, you will build the foundation for all web applications at Uber. This team focuses on providing a performant, secure and reliable web ecosystem for all of our users (riders, drivers and our internal operations &amp; logistics teams) through the creation and support of developer tools, systems, and frameworks. The team’s main goal is to make Uber’s web engineers productive and its web applications high quality.</p>
+<p>Our current tech stack utilizes React.js &amp; Redux, ES2016+, and Node.js. Our design team uses Figma to create user interface designs.</p>
+<h3>What You’ll Do</h3>
+<ul>
+<li>Build the user interface component library for all of Uber’s 300+ web applications</li>
+<li>Create developer tools to increase productivity and quality of our product teams</li>
+<li>Continue to refine and define our tech stack, utilizing open source tools and generalizing product-specific code</li>
+<li>Contribute features and fixes back to open source software used by Uber, or create and promote our own open source tools</li>
+<li>Communicate and collaborate within and across teams to drive company-wide, large-scale projects</li>
+<li>Mentor, educate and support those around you, as well as other web engineers within the company</li>
+<li>Embed with non-open source software teams as needed to assist in development and spread open source best practices</li>
+</ul>
+<h3>What You’ll Need</h3>
+<ul>
+<li>3+ years of web developer experience and strong Javascript/CSS/HTML knowledge, have worked with modern frameworks (React, Redux) and tooling (SASS/CSS-in-JS, Webpack, npm) and are familiar with Node.js</li>
+<li>You are adept at communicating and collaborating effectively with others, promoting your ideas as well as being humble when you may be wrong</li>
+<li>You are excited to learn from and teach others</li>
+<li>You are passionate about open source, especially when it comes to welcoming new contributors</li>
+</ul>
+<h3>Bonus Points If</h3>
+<ul>
+<li>You are knowledgeable in Javascript typing languages/linters (Flow/TypeScript)</li>
+<li>You have experience building component libraries</li>
+<li>You have experience with public speaking / you’d like to give it a try</li>
+</ul>
+",
+    "how_to_apply": "<p>Follow the instructions at <a href=\"https://www.uber.com/careers/list/40899/\">https://www.uber.com/careers/list/40899/</a></p>
+",
+    "id": "26477b75-daf8-4d3b-983b-a2dbe6743c04",
+    "location": "San Francisco",
+    "title": "Software Engineer, UI Platform Open Source",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/26477b75-daf8-4d3b-983b-a2dbe6743c04",
+  },
+  Object {
+    "company": "Signet",
+    "company_logo": "https://jobs.github.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1JhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9eaf2e1f5cf9321c0883a157325b8f7893a4ab18/signet%20logo.png",
+    "company_url": "https://signet.tv/",
+    "created_at": "Sat Dec 29 05:31:12 UTC 2018",
+    "description": "<p>Are you ready to play a pivotal role at a fast growing company?</p>
+<p>About Us:
+Signet is a digital media and display network solution provider specializing in content creation, management and distribution across enterprise networks and platforms.</p>
+<p>We stay about 5 years ahead of our competitors, leveraging our clients for insight in order to deliver leading edge technology and services. We’ve hired a diverse mix of people who bring expertise from various industries and fields to create this new hybrid SaaS/ProServe model.</p>
+<p>We’re leaders in our industry and have won multiple awards for interactive, and creative marketing. Our no-nonsense, down-to-earth attitude and close relationships turn our clients into brand evangelists. Get to work with some of the world largest and cool brands as clients: IBM, Visa, eBay, GoPro, T-Mobile, HP, Verizon, Hitachi, etc</p>
+<p>The Role:</p>
+<p>The Development Lead is responsible for the software design and development of the internal information systems including ERP systems, CRM systems, web and mobile applications including back end database support. You’ll also play a pivotal role in the restructuring of the Signet platform.</p>
+<p>You’ll manages a team of both Onshore and Offshore Application Engineers who will design solutions, create specifications, program, test, implement and optimize business specific software products to meet corporate and client needs.</p>
+<p>You will also serve as Lead Developer building our system framework, and should have extensive experience with Python, Javascript, CSS, HTML, Angular.  
+  
+Essential Duties:   </p>
+<ul>
+<li>Create the systems architecture for all information systems for Signet  </li>
+<li>Design and manage the entire Software Development Lifecycle for all custom application development   </li>
+<li>Oversee the development, QA and production environments including change management and release management processes   </li>
+<li>Partner with infrastructure teams to provide specifications for all new systems   </li>
+<li>Mentor and train software development talent including design sessions and code reviews   </li>
+<li>Build our overall framework using C#, Microsoft SQL and Java as appropriate   </li>
+<li>Research and make recommendations on design modifications or enhancements to meet frequently changing client and compliance requirements   </li>
+<li>Consult with corporate staff to identify potential risk mitigation opportunities that can be addressed through process change and/or automation   </li>
+<li>Key contact between Development team and client management staff   </li>
+<li>Manage internal development team and coding vendor relationships, defining what is worked on and priorities   </li>
+<li>Create and maintain system architectures for the organization   </li>
+<li>Expert knowledge in software design, database connectivity and the full development lifecycle   </li>
+<li>Manage technical staff members across multiple technologies and locations   </li>
+<li>Prioritize work and communicate the appropriate importance to staff   </li>
+<li>Ensure focus for department, staff and self is on delivering results   </li>
+<li>Make decisions with minimal external inputs   </li>
+<li>Collaborate expertly with other teams in a cross-department environment   </li>
+<li>Conduct research into issues, standards and products as required and communicate findings in an appropriate manner   </li>
+<li>Present new ideas or concepts in user-friendly language   </li>
+<li>Must be skilled in analytical and problem-solving abilities   </li>
+<li>Demonstrated strength in exceeding customer expectations   </li>
+<li>Excellent understanding of the organization’s goals and objectives   </li>
+<li>Must be able to communicate with excellent verbal and written communications skills   </li>
+<li>Knowledge of regulatory practices and laws applicable to the industry  
+  
+  
+Technical and/or Functional Skills &amp; Knowledge:  </li>
+<li>Must have 7+ years’ experience leading both enterprise information systems and custom application development projects   </li>
+<li>Proven success managing technical staff across multiple programming languages and technologies   </li>
+<li>Expertise in Javascript, HTML, CSS, Python. Good to know Angular 2+, React, PHP.  </li>
+<li>Excellent verbal, presentation and written communications skills combined with the ability to communicate with technical, non-technical, and senior management audiences   </li>
+<li>In-depth knowledge of Node.js application &amp; server development on Linux environments  </li>
+<li>Experience writing and working with RESTful APIs and data formats including JSON and XML  </li>
+<li>Experience with both relational databases and document stores  </li>
+<li>Experience working with Git or other revision control systems and defined coding standards  </li>
+<li>Good handle of different data structures and algorithms as well as their relevant applications  
+ 
+Big Pluses: 
+ </li>
+<li>Experience working with interactive displays / digital systems </li>
+<li>Experience with media distribution systems / IO heavy lifting </li>
+<li>Experience with Websockets and WebRTC </li>
+<li>Experience with WebGL </li>
+<li>Multi-touch web applications (Hammer.js) and interactive realtime device inputs (TUIO, Kinect, Leap Motion, Structure) </li>
+<li>Developed solutions that integrated with IOT devices, arduino, or other microcontroller devices 
+ 
+ Qualifications:   </li>
+<li>Bachelor’s Degree in Information Systems or Computer Science or applicable experience   </li>
+<li>Minimum of 10 years of relevant work experience in a technical environment   
+Minimum of 7 years of management experience in a technical environment</li>
+</ul>
+",
+    "how_to_apply": "<p>Send resume to <a href=\"mailto:aaron@essention.co\">aaron@essention.co</a></p>
+",
+    "id": "392e30aa-6fce-4b6a-a80e-eff1551da0d8",
+    "location": "San Jose, CA",
+    "title": "Lead Software Engineer",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/392e30aa-6fce-4b6a-a80e-eff1551da0d8",
+  },
+  Object {
+    "company": "Boxbot",
+    "company_logo": "https://jobs.github.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a97886732a80ee0a5f0acfa6f6bd5bcdf72d9aec/Copy%20of%20Box%20Bot%20Final.png",
+    "company_url": "http:",
+    "created_at": "Tue Dec 11 23:01:32 UTC 2018",
+    "description": "<p>About Us</p>
+<p>Boxbot is a well funded startup that builds and operationalizes robotic technology to automate the delivery supply chain. Boxbot significantly reduces delivery costs while increasing convenience, relieving traffic congestion, cutting greenhouse gas emissions and enabling commercial drivers to handle a rapidly growing number of deliveries.</p>
+<p>Responsibilities</p>
+<p>We are looking for full-stack engineers with expertise in Ruby, Rails, PostgreSQL, Redis, Javascript (React, React Native). As a company, we value growth and learning, and want someone to contribute to building a fantastic customer facing product that will revolutionize last-mile logistics!</p>
+<p>As an integral member of our software engineering team, you will be responsible for building out the key backend systems that will be interfacing both with our robots and our customers. We care deeply about the customer experience, and build products that solve problems using beautiful design and high quality code.</p>
+<p>Requirements</p>
+<ul>
+<li>5+ years designing, building and deploying web applications</li>
+<li>Must have experience with Ruby on Rails (we are on version 5.2)</li>
+<li>Experience with REST API design principles (interest in GraphQL)</li>
+<li>Understanding of front-end technologies, such as JavaScript, HTML5, and CSS3. Experience with React is a plus.</li>
+<li>Expertise in relational databases and schema design</li>
+<li>Deep understanding of Web Concepts</li>
+<li>Self-starter with experience working in small and dynamic teams</li>
+<li>An eye for good design and beautiful code</li>
+<li>Passion for scale &amp; performance and experience w/ distributed systems</li>
+<li>BS in Computer Science or equivalent</li>
+</ul>
+<p>Why work here?
+Autonomy, mastery, purpose: We provide a clear mission so that you can self-direct your work, provide exceptional challenges to hone your skills, and help transform a supply chain that impacts the lives of millions of people. You get one of the early seats on a fast moving startup and you get to work with robots!</p>
+<p>Benefits include medical, dental, vision, life, commuter, snacks, 401(k), etc.! We are located in Jack London Square with an easy Commute via BART, Ferry, Amtrak and free parking!</p>
+",
+    "how_to_apply": "<p><a href=\"https://jobs.lever.co/boxbot/d5d5893d-2332-4bc1-b44d-ea7ea7a93198?lever-origin=applied&amp;lever-source%5B%5D=GitHub\">https://jobs.lever.co/boxbot/d5d5893d-2332-4bc1-b44d-ea7ea7a93198?lever-origin=applied&amp;lever-source%5B%5D=GitHub</a></p>
+",
+    "id": "07e57016-6549-442d-a71b-362067a359ca",
+    "location": "Oakland, California",
+    "title": "Senior Full Stack Web Developer",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/07e57016-6549-442d-a71b-362067a359ca",
+  },
+  Object {
+    "company": "BlueVine",
+    "company_logo": "https://jobs.github.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVpXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--360b82a746cc2534217d8065604aea06a67964e0/98456b19-f8cb-4e7c-863d-6dafefc20196",
+    "company_url": "http://bluevine.com",
+    "created_at": "Fri Nov 09 21:36:14 UTC 2018",
+    "description": "<p>At BlueVine, we’re transforming how businesses get access to working capital financing. Founded in 2013, our online lending platform has helped 10,000+ business owners simplify their cashflow management, boost growth, and take advantage of new opportunities. As a leading FinTech company, we’re backed by Menlo Ventures, LightSpeed Ventures, 83North, Silicon Valley Bank, Citi Ventures, Microsoft Ventures and Nationwide Insurance among other notable investors. Our clients love us, the market we’re going after is huge, and we’re just getting started.</p>
+<p>We’re looking for exceptional people to help deliver the next generation of business financing solutions. We are a group of fun, creative, and motivated people that like to tackle challenges head on. If you have a strong desire to be part of a small, agile team, in an exciting and growing space, you’ll find your next job at BlueVine.</p>
+<p>As a <strong>Senior Python Developer</strong> at BlueVine you will be an important part of leading our platform development, and be a key member of our tech team.</p>
+<p><strong>BENEFITS &amp; PERKS:</strong></p>
+<ul>
+<li>Receive over $1,000 annually for a wellness benefit of your choice</li>
+<li>Free commuter benefits - CalTrain passes for SF employees and a monthly parking allowance for SF/NJ employees</li>
+<li>Weekly catered lunches</li>
+<li>Unlimited snacks in fully stocked kitchens</li>
+<li>Generous PTO and holidays</li>
+<li>Excellent health coverage and life insurance benefits</li>
+<li>Generous, paid parental leave which covers up to 15 weeks</li>
+<li>Pet-friendly offices</li>
+</ul>
+<p><strong>WHAT YOU'LL DO:</strong></p>
+<ul>
+<li>Architect and build state-of-the-art web &amp; mobile application using a variety of languages and tools</li>
+<li>Build distributed backend application in the cloud</li>
+<li>Understand repeatable automated processes for building the application, test it, document it, and deploy it at scale</li>
+<li>A desire to work as part of a growing, fast-paced, and highly-flexible team</li>
+<li>Work closely with, and incorporate feedback from, product designers and other stakeholders in the company</li>
+<li>Be able to develop a project through its entire lifecycle</li>
+<li>Have strong attention to details, a strong sense of ownership, pride in the quality of one's work and the ability to meet deadlines</li>
+<li>Provide technical direction and guidance, as well as draft specifications, architect solutions, define timelines, advise on industry best practice and problems to be solved</li>
+</ul>
+<p><strong>WHAT WE LOOK FOR:</strong></p>
+<ul>
+<li>Knowledge of Python (4+ years)</li>
+<li>Knowledge of Django (2+ years)</li>
+<li>Experience with Celery, RESTful APIs and server-side APIs integration</li>
+<li>Knowledge of ORM, SQL and Data Modeling</li>
+<li>Experience with TDD and ability to write quality unit tests</li>
+<li>Experience with AWS, cloud deployments, devops and web security</li>
+<li>Knowledge of JavaScript, HTML5, CSS3</li>
+<li>Ability to quickly learn new technologies and adapt to a fast-paced development environment</li>
+</ul>
+<p>BlueVine’s mission is to help business owners succeed and thrive by making sure they have convenient access to capital for their everyday funding needs. We’ve helped thousands of businesses since we started in 2013, funding more than $1 billion in working capital through our pioneering online platform. Our invoice factoring product allows business to receive cash advances on their outstanding invoices, offering factoring lines of up to $5 million. Our business line of credit product, called Flex Credit, offers financing based on 6-month and 12-month payment terms, and credit lines of up to $250,000. Based in Redwood City, Calif., BlueVine is backed by leading venture capital firms.</p>
+",
+    "how_to_apply": "<p>[Senior Python Developer] (<a href=\"https://jobs.lever.co/bluevine/17ae9fff-deb7-4f61-b2cb-4507840e24bf?lever-origin=applied&amp;lever-source%5B%5D=GitHub\">https://jobs.lever.co/bluevine/17ae9fff-deb7-4f61-b2cb-4507840e24bf?lever-origin=applied&amp;lever-source%5B%5D=GitHub</a>)</p>
+",
+    "id": "9999f1f0-e448-11e8-966e-602e38acf303",
+    "location": "Redwood City, Ca",
+    "title": "Senior Python Developer",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/9999f1f0-e448-11e8-966e-602e38acf303",
+  },
+  Object {
+    "company": "Apple Inc.",
+    "company_logo": "https://jobs.github.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVZXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f451ea9e2f53738c84e5e95182191075d94d6460/f470d99d-33e6-44f5-ac37-d1237f0a00d1",
+    "company_url": "http://www.apple.com",
+    "created_at": "Fri Nov 09 16:54:38 UTC 2018",
+    "description": "<p>DESCRIPTION: Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job comes with more than a few perks.</p>
+<p>Job Summary:</p>
+<ul>
+<li>Marcom is Apple’s Global Marketing Communications group. We lead all of Apple’s advertising and marketing to ensure the flawless development and execution of world class communications.</li>
+<li>
+<a href=\"http://apple.com\">http://apple.com</a> is a critical part of Apple’s product marketing strategy and a showcase for internet standards and innovation. In the role of Full Stack Engineer, you build the development, testing and content integration pipeline for the platform. We expect you to grow developer productivity, enable continuous deployment, flawless content editing and minimize QA lifecycles.</li>
+</ul>
+<p>Key Qualifications:
+Strong JavaScript/Node.js skills, with experience developing web applications and a real passion for learning more.
+You have an understanding of npm, and experience with publishing modules
+Experience with web packaging tools like browserify, webpack and babel
+You have capabilities in code quality linters like eslint and knowledge of JavaScript testing frameworks like Jasmine
+You are proficient in web application security; incorporating security into the software development lifecycle
+You're familiar with database architecture, scalability and performance and have experience of continuous integration and Jenkins
+You have Broad UNIX knowledge and skills and are proficient working in bash
+You have strong verbal and written interpersonal skills
+You have experience with agile development processes and maintain a philosophy of writing performant, maintainable JavaScript
+You dream of working in a creative and dynamic environment.</p>
+<p>Description:
+Collaborates with other technical teams on DevOps responsibilities for application deployment, performance, monitoring, reliability and scalability</p>
+<p>Manages expectations and provides ongoing status updates to team members.</p>
+<p>Responsible for critical architectural planning, approaches to content management, integration and serving applications across the development pipeline.</p>
+<p>Uses virtual machines and containerization technologies such as Docker and leads development efforts on large-scale web-based projects,</p>
+<p>Ensures robust and lasting solutions are selected and embraced.</p>
+<p>Works under tight deadlines and keeps producers updated on an ongoing basis.</p>
+<p>Develops positive multi-functional relationships and works well with all levels of management.</p>
+<p>Provides solutions to complex problems in a concise and articulate way.</p>
+<p>Seen as the 'go to</p>
+<p>Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.</p>
+<p>REQUISITION NUMBER: 113025781
+COMPANY NAME: Apple Inc.</p>
+",
+    "how_to_apply": "<p><a href=\"https://ars2.equest.com/?response_id=e0b804211ba9acb4bb3a3848d81de03a\">Apply here</a></p>
+",
+    "id": "24c31152-e440-11e8-9240-8dede5d34cb0",
+    "location": "Cupertino, CA",
+    "title": "Full Stack Engineer",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/24c31152-e440-11e8-9240-8dede5d34cb0",
+  },
+  Object {
+    "company": "Traction",
+    "company_logo": null,
+    "company_url": "https://www.tractionco.com/",
+    "created_at": "Wed Oct 31 19:45:06 UTC 2018",
+    "description": "<p>The Job:</p>
+<p>Traction is looking for a Lead Full Stack Developer. You should have prior experience architecting and developing advanced dynamic projects involving technologies for Front-end, Back-end, Database, DevOps and Mobile, as well as leading teams of engineers working on these projects.</p>
+<p>This role will see you leading a team of developers as well as being an individual contributor to the team.</p>
+<p>We’re on a mission to become one of the most in-demand agencies in the United States, sought out by the best brands in the world to design meaningful experiences for their customers.</p>
+<p>Must be available to work onsite in Sunnyvale, CA exclusively working embedded with our client that is headquartered in Cupertino.</p>
+<p>Core Responsibilities:</p>
+<ul>
+<li>Act as the primary technical contact for an engineering team with other teams across disciplines, potentially leading a team of 2-5 developers</li>
+<li>Work closely with the development manager to ensure requirements and timelines are met</li>
+<li>Work closely with the development manager and back-end teams to architect and integrate front-end code</li>
+<li>Develop advanced applications with a mixture of third-party and proprietary tools and libraries</li>
+</ul>
+<p>Skills and Experience:</p>
+<ul>
+<li>Experience as a lead developer</li>
+<li>2+ years of experience building websites using HTML, CSS, and JavaScript</li>
+<li>8+ years of experience building web applications with any common web technologies (Node.JS, Java, .Net, PHP, Ruby, Python)</li>
+<li>8+ years of experience with modern web frameworks and/or libraries such as React, Angular, etc.</li>
+<li>8+ years of experience in modeling n-tier applications</li>
+<li>6+ years of experience in database modeling; PL/SQL and SQL. MongoDB is a plus</li>
+<li>Experience writing unit tests for web applications</li>
+<li>Experience with containers and container platforms (Docker, Mesos, Kubernetes)</li>
+<li>Experience in defining continuous integration build processes for front-end web development</li>
+<li>Familiarity with CI/CD strategy (AWS, Heroku, Google Cloud)/</li>
+<li>Knowledge of common design patterns in web development (i.e., MVC, MVVM)</li>
+<li>Working knowledge of source control software such as Git (preferred) or SVN</li>
+<li>Exposure to Agile project management methodologies</li>
+<li>Ability to multi-task and manage tasks with varying priorities</li>
+<li>Must be able to brainstorm and communicate technology ideas and issues with peers and management</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Experience in developing applications for Supply Chain business domain, with more focus on Supply Planning, Demand Planning</li>
+<li>Willingness to learn new technologies and implement in short time</li>
+<li>Comfortable working in a multi-discipline, geographically dispersed team</li>
+<li>Experience in leading a team of developers through all processes of development and integration, including test automation</li>
+</ul>
+<p>Education: BA or BS in computer science or equivalent experience</p>
+<p>Extra Credit:</p>
+<ul>
+<li>Experience with e-commerce</li>
+<li>Knowledge of accessibility specifications</li>
+<li>Experience with GraphQL</li>
+<li>Experience with Scala</li>
+</ul>
+<p>Our humblebrag:
+Join an award-winning, digitally-focused, full-service, independent agency staffed by a bunch of folks who love what they do and do what they love. Still on the rise after 17 years of success, you’ll enjoy a satisfying suite of benefits, as well as the chance to work on the world's most well-know brand.</p>
+<p>Will you accept our mission?
+Traction is dedicated to creating meaningful advertising, branding, and experiences for our clients and their consumers. In order to accomplish this, we have fostered a culture rooted in autonomy, empowerment, collaboration, and—occasionally—mischief. We believe that great work is spontaneous, and the best ideas come from a diverse team of creatively-minded individuals. Our goal is to be an agency where the journey getting there is as great as the work itself, and we’re looking for the right people to help us do it.</p>
+",
+    "how_to_apply": "<p><a href=\"https://traction.applytojob.com/apply/rpfYAlIVTX/Lead-Full-Stack-Developer\">https://traction.applytojob.com/apply/rpfYAlIVTX/Lead-Full-Stack-Developer</a></p>
+",
+    "id": "48d5274e-dd45-11e8-8130-eacb3354d656",
+    "location": "Sunnyvale, CA ",
+    "title": "Lead Full Stack Developer",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/48d5274e-dd45-11e8-8130-eacb3354d656",
+  },
+  Object {
+    "company": "CommunityVenturePartners",
+    "company_logo": null,
+    "company_url": "https://marinpost.org",
+    "created_at": "Tue Oct 30 17:13:04 UTC 2018",
+    "description": "<p>The Marin Post (<a href=\"https://marinpost.org\">https://marinpost.org</a>) seeking webmaster assistance, full-stack coder for frontend and backend coding.</p>
+<ul>
+<li>
+<p>Work part time with flexible hours.</p>
+</li>
+<li>
+<p>Work remotely but MUST live in San Francisco Bay Area and be available for occasional face to face meetings in Southern Marin or North San Francisco (Please DO NOT APPLY if you do not live in SF Bay Area).</p>
+</li>
+<li>
+<p>Pay per experience level. Please provide an accurate resume of experience. Your prior employment will be verified.</p>
+</li>
+</ul>
+<p>Applicant requirements</p>
+<ul>
+<li>
+<p>PHP, Javascript, HTML, CSS</p>
+</li>
+<li>
+<p>Experience with Craft CMS and Twig or similar Content Management Systems but helpful to have experience with Craft CMS API (plugin) programming (<a href=\"https://craftcms.com/\">https://craftcms.com/</a>)</p>
+</li>
+<li>
+<p>Versed in Git / Github, able to create a pull request.</p>
+</li>
+</ul>
+",
+    "how_to_apply": "<p>email resume to: <a href=\"mailto:communityventurepartners@comcast.net\">communityventurepartners@comcast.net</a></p>
+",
+    "id": "f3e305e6-dc66-11e8-8ec9-7dcb52a38c24",
+    "location": "Mill Valley",
+    "title": "seeking webmaster assistance with frontend and backend.",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/f3e305e6-dc66-11e8-8ec9-7dcb52a38c24",
+  },
+  Object {
+    "company": "Superhuman",
+    "company_logo": "https://jobs.github.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3RYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ebb90f645aac4f8206bafad94fe27c404da4d6de/32551759-4e9f-4391-aa80-a4c1b5537a66",
+    "company_url": "https://superhuman.com/",
+    "created_at": "Mon Oct 22 17:33:55 UTC 2018",
+    "description": "<p>SUPERHUMAN 👉</p>
+<p>We're building the fastest email experience in the world.</p>
+<p>Superhuman is:</p>
+<ul>
+<li>The most wanted product on Product Hunt, with 70K+ people on our waitlist</li>
+<li>Growing revenue 7% week-week, 30% month-month</li>
+<li>Loved and adored: <a href=\"https://twitter.com/SuperhumanCo/timelines/911278863216340992\">see what our users say</a>
+</li>
+<li>Come shape the future of email, communication, and productivity!</li>
+</ul>
+<p>BUILD LOVE 💜</p>
+<p>At Superhuman, we deeply understand <a href=\"https://www.linkedin.com/pulse/goodbye-mr-iwata-rahul-vohra\">how to build products that people love</a>. We incorporate fun and play; we infuse magic and joy; we make experiences that amaze and delight.</p>
+<p>For us, emotive design is not some afterthought.  It is a core part of our strategy.</p>
+<p>CREATE MASSIVE IMPACT 🚀</p>
+<p>We're not solving a small problem, and we're not addressing a small market. We're going after email; the one activity that consumes more of our work day than any other.</p>
+<p>Our ambition doesn't stop there. Next: calendars, notes, contacts, tasks. We are building the productivity platform of the future.</p>
+<p>At Superhuman, you will have massive impact: you will define product strategy, and translate big ideas into experiences that delight. You will create gorgeous products that millions of people use for hours every single day.</p>
+<p>DO THE BEST WORK OF YOUR LIFE 🌟</p>
+<p>As a fullstack engineer, you will join as a core member of a seasoned 5-person team.</p>
+<p>We made products at Apple, Google, LinkedIn, Zynga, Flipboard, and Facebook. We founded Rapportive (acquired by LinkedIn), LiveRamp (acquired for $310M), and built pry (used by 25% of Ruby developers). Our investors include First Round Capital, Sam Altman, and the founders of Gmail, Stripe, AngelList, Intercom.</p>
+<p>This time, we're swinging for beyond the fences. We are building a household brand and a worldwide organization. We are here to do the best work of our lives, and we hope you are too.</p>
+<p>ROLE 👩🏽‍💻👨‍💻</p>
+<ul>
+<li>Develop new products and features, improve existing products and features</li>
+<li>Become an expert in web app development</li>
+<li>Expand your development experience across the stack and to other platforms</li>
+<li>Contribute in the product process: thinking through UX, designing beautify UI, and working with - customers to solve their problems</li>
+<li>Develop and utilize your skills as a mentor and leader</li>
+<li>Help estimate, plan and execute on projects, features, and integrations</li>
+<li>Champion code quality, new technologies, and architectural design within the company</li>
+<li>Technologies we use: React, Golang, Postgres, Electron, Google Cloud</li>
+</ul>
+<p>SOUND LIKE YOU? 🙌</p>
+<ul>
+<li>Experience: You are a proficient engineer with a well rounded software engineering background
+You have 3+ years of professional full stack web development experience, working across the stack from the database to the UI
+You have a deep understanding of browser Javascript (including the DOM and platform APIs)</li>
+<li>Product focused: You take pride in building elegant and beautiful product</li>
+<li>Problem solver: You excel at understanding and solving complex problems. You have astonishing attention to detail.</li>
+<li>Quality communicator: You can confidently break down tricky topics in writing and in person.</li>
+<li>Surprisingly efficient: You get a lot done quickly, and can translate your skills into new processes that your team will follow.</li>
+<li>Leadership: You will rapidly grow into a company leader. You will build company culture and help shape our future.</li>
+<li>Location: San Francisco Bay Area</li>
+</ul>
+<p>BENEFITS 🎁</p>
+<ul>
+<li>Flexible vacation
+-Catered lunch (5x per week)</li>
+<li>$3k desk set up of your choice</li>
+<li>Full medical, dental, and vision insurance</li>
+<li>Paid parental leave</li>
+<li>401K</li>
+</ul>
+<p>Superhuman is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+",
+    "how_to_apply": "<p>Please apply: <a href=\"https://grnh.se/ece028bb1\">here</a>. :)</p>
+",
+    "id": "e187e176-d4d9-11e8-89b9-2c50d9a12d58",
+    "location": "San Francisco",
+    "title": "Full Stack Engineer",
+    "type": "Full Time",
+    "url": "https://jobs.github.com/positions/e187e176-d4d9-11e8-89b9-2c50d9a12d58",
+  },
+]
